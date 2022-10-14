@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00f60af0-750b-4f6b-bfa6-203bd8501038" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Games Studio Experience/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games Studio Experience/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Games Studio Experience/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games Studio Experience/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerRelated/ShotCounterUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Procedural Generation/Voronnoi/VoronnoiGeneration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuItems/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A4546799-A4AB-4267-88E4-204C69507924/89/11b6b322/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/wormhole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Procedural Generation/Fake/RandomPlacement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GravityForRedGiant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerRelated/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/tutorialModPowerups.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerRelated/PowerUps.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObstacleRelated/CometMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuItems/LevelLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectBounce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RewardingSystem/Rewarding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RewardingSystem/BlackHolePlanetCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Difficulties/D2.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Procedural Generation/MapTile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Procedural Generation/MapGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Procedural Generation/Voronnoi/VoronnoiGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleRelated/CometMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Obstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/wormhole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuItems/LevelLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerRelated/ShotCounterUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Procedural Generation/Fake/RandomPlacement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Difficulties/D2.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RewardingSystem/Rewarding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GravityForRedGiant.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1igTu7dHrrIh6LCZXCn3czl0QyK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f60af0-750b-4f6b-bfa6-203bd8501038" name="Default Changelist" comment="" />
+      <created>1602328459446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602328459446</updated>
+      <workItem from="1602328479422" duration="5372000" />
+      <workItem from="1602671288038" duration="2044000" />
+      <workItem from="1603474801679" duration="9773000" />
+      <workItem from="1603704616177" duration="292000" />
+      <workItem from="1603794756911" duration="182000" />
+      <workItem from="1603805898991" duration="1886000" />
+      <workItem from="1603841458098" duration="710000" />
+      <workItem from="1603873615345" duration="4141000" />
+      <workItem from="1604319754376" duration="877000" />
+      <workItem from="1604349292423" duration="620000" />
+      <workItem from="1604712590438" duration="726000" />
+      <workItem from="1604938477250" duration="103000" />
+      <workItem from="1605175796861" duration="2502000" />
+      <workItem from="1605278093460" duration="689000" />
+      <workItem from="1605357746155" duration="2378000" />
+      <workItem from="1605786799121" duration="1240000" />
+      <workItem from="1605883328284" duration="656000" />
+      <workItem from="1606141966115" duration="4011000" />
+      <workItem from="1606729996063" duration="3617000" />
+      <workItem from="1606745742368" duration="1827000" />
+      <workItem from="1606758490857" duration="1323000" />
+      <workItem from="1607008125708" duration="596000" />
+      <workItem from="1607330258831" duration="1881000" />
+      <workItem from="1607441596843" duration="2038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603485861792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603485861792" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+{
+  "Obstacles": [
+    {
+      "name": "Wormhole"
+    },
+    {
+      "name": "Comet"
+    }
+  ],
+  "Planets": [
+    {
+      "name": "BigPlanet",
+      "numberof": 1
+    },
+    {
+      "name": "SmallPlanet",
+      "numberof": 3
+    }
+
+  ]
+}

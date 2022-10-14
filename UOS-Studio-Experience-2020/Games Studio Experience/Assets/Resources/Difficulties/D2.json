@@ -1,0 +1,30 @@
+{
+  "Obstacles": [
+    {
+      "name": "Wormhole"
+    },
+    {
+      "name": "Comet"
+    },
+    {
+      "name": "Moon"
+    },
+    {
+      "name": "RedGiant"
+    },
+    {
+      "name": "BrokenSat"
+    }
+  ],
+  "Planets": [   
+    {
+      "name": "BigPlanet",
+      "numberof": 3 
+    },
+    {
+      "name": "SmallPlanet",
+      "numberof": 2
+    }
+    
+  ]
+}

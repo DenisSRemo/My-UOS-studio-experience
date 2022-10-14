@@ -1,0 +1,5 @@
+Level (IndexNum):,Amount of shots taken:,Amount of powerups used:,What powerups used:,Was shop used:,Was game paused:,Was something bought:,Amount of planets spawned:,What obstacles spawned:
+13,1,0,,False,False,False,1,
+14,8,0,,False,False,False,2,
+15,18,9,Powershot/,True,True,True,4,
+

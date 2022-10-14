@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UI_Assets/UI_Scene.unity
+    guid: c0793d5bc371c584e8f067a6536ef147
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/LevelDesign/Nick B Levels/Level0.unity
+    guid: 2feb74c6827cdaa48afa0d18dca39ed3
+  - enabled: 1
+    path: Assets/LevelDesign/Nick B Levels/Level1.unity
+    guid: d12c797b43d6ac94e84e6d3513e76069
+  - enabled: 1
+    path: Assets/LevelDesign/Nick B Levels/Level2.unity
+    guid: 2c61aedca4325ec49a39c5e2ab3e34d9
+  - enabled: 1
+    path: Assets/LevelDesign/Luke B Level Designs/Level0.unity
+    guid: 349871614dd8bfa478dd92c796a48ebb
+  - enabled: 1
+    path: Assets/LevelDesign/Luke B Level Designs/Level1.unity
+    guid: b5f3b67ec419e9444adfd438b263d041
+  - enabled: 1
+    path: Assets/LevelDesign/Luke B Level Designs/Level2.unity
+    guid: be14eae92775b93438d778731313a149
+  - enabled: 1
+    path: Assets/LevelDesign/Kallum L Levels/KL_Level00.unity
+    guid: a11d0dbccd0ccf04192eef15d93f6445
+  - enabled: 1
+    path: Assets/LevelDesign/Kallum L Levels/KL_Level01.unity
+    guid: 06f9397765f70424f82de2dacad4abfc
+  - enabled: 1
+    path: Assets/LevelDesign/Kallum L Levels/KL_Level02.unity
+    guid: 6f991ed20679ade48af55490c07e2583
+  - enabled: 1
+    path: Assets/LevelDesign/Jack G Level Designs/Level_1.unity
+    guid: fb0e9c2bde750dd4cae17bd977493f65
+  - enabled: 1
+    path: Assets/LevelDesign/Jack G Level Designs/Level_2.unity
+    guid: f1aa64d17a597c2459bdc3f9aacd928d
+  - enabled: 1
+    path: Assets/LevelDesign/Jack G Level Designs/Level_3.unity
+    guid: 6dfcc56392dcb3b41b69a60f154333a7
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 416043c498e05754aab208401686a57a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial0.unity
+    guid: 0e119ffc3dbb56447b57634a72b10c34
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: b9af0197c0feab24288fad086b849d98
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: 1adc3d23755969040a6d2c81c6127cfc
+  - enabled: 1
+    path: Assets/Scenes/Tutorial3.unity
+    guid: 5b37596a7d19cae4a83ff48d5fdaae9b
+  m_configObjects: {}

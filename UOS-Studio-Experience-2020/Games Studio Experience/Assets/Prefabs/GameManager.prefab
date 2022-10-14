@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1375139101506419494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1375139101506419495}
+  m_Layer: 0
+  m_Name: End
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1375139101506419495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139101506419494}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.34, y: 0, z: 20.33}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1375139102026973639}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1375139102026973624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1375139102026973639}
+  - component: {fileID: 1375139102026973638}
+  - component: {fileID: 1375139102026973636}
+  - component: {fileID: 1375139102026973637}
+  - component: {fileID: 1336574853742071947}
+  - component: {fileID: 8830251376692105097}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1375139102026973639
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139102026973624}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1375139103137066560}
+  - {fileID: 1375139101506419495}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1375139102026973638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139102026973624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63ae614ad85a04d4dbf43a5d1458de50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SmallPlanets: 0
+  BigPlanets: 0
+  Planets: 0
+  Stop: 0
+  GoldEarnedThisScene: 0
+  VictoryPanel: {fileID: 0}
+  UI: {fileID: 0}
+--- !u!114 &1375139102026973636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139102026973624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d399a9e7db9fbd94ba53b2195bb56a34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShotCounterText: {fileID: 0}
+  GameoverPanel: {fileID: 0}
+--- !u!114 &1375139102026973637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139102026973624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb1f937233942f428aa37a9215b55f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1336574853742071947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139102026973624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e3971e604e26aa419fa0ccb1b5e208c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8830251376692105097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139102026973624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ed8b39309a40749867e2db82748437, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  start: {fileID: 1375139103137066560}
+  end: {fileID: 1375139101506419495}
+  showGizmo: 1
+  ObstaclesToSpawn: 2
+  obstacleSpawnY: 0
+  timeToCheck: 10
+  obstacles:
+  - {fileID: 8271327719467253418, guid: e19dffc7383294f4b90487c6025c20c3, type: 3}
+  - {fileID: 5343605854526788718, guid: 85ed64c1cf68db64cae9d1df50e0b086, type: 3}
+  - {fileID: 6427564713274334862, guid: ae9f92865c11cc34498f953bfc69f24b, type: 3}
+  - {fileID: 2793375658401816497, guid: bf781108db3bff444862f5f33e52bb9c, type: 3}
+  - {fileID: 707921430323862103, guid: a1d0d9550cb5d4a4e8d5d90f6d717675, type: 3}
+  LargePlanets:
+  - {fileID: 2489853882547294602, guid: ade6297be18139c43b0b6bc2ed793fd5, type: 3}
+  - {fileID: 3587947038933633876, guid: e38cc78e9bf2a5145b4b4516899764a7, type: 3}
+  - {fileID: 53547538044563583, guid: 7d61eefe97f9b1243b03e73e0764a8a6, type: 3}
+  - {fileID: 1740677728920768211, guid: 80f91077ed16d3246bfd414d68810a6d, type: 3}
+  - {fileID: 2937624391704069404, guid: b1867497ed51cb045a6b1a6d0a2f240d, type: 3}
+  SmallPlanets:
+  - {fileID: 2774999508844324983, guid: 09b645afad439d5418a34551a3f10e1f, type: 3}
+  - {fileID: 6093732439880038549, guid: eeb00e90c1a697a4d8c408f1976452fa, type: 3}
+  - {fileID: 3324630445049743731, guid: 1dff3838c481ca34aa01a3c6671b6611, type: 3}
+  - {fileID: 4543505995023489408, guid: b79381101e19e864faabd9e4af53b427, type: 3}
+  - {fileID: 7182694016503719081, guid: 935e6a24169b8094e84024d8c4f2fe9d, type: 3}
+  NumberOfSmallPlanets: 2
+  NumberOfLargePlanets: 1
+  PlacedPlanets: []
+  NumberOfAstronauts: 3
+  AstronautPrefab: {fileID: 6785067426830415285, guid: 5c791fd6c2ef36a4dabe6df2b4cd5dd9,
+    type: 3}
+  wormholePrefab: {fileID: 4642341292038549043, guid: 64c26c79429e68941a11dbb092249ca2,
+    type: 3}
+  spawnLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  noSpawnLayer:
+    serializedVersion: 2
+    m_Bits: 13312
+  JSONWormholePrefab: {fileID: 5343605854526788718, guid: 85ed64c1cf68db64cae9d1df50e0b086,
+    type: 3}
+  JSONBigPlanetPrefab: {fileID: 6479578596113877579, guid: 7e8f879cede98f546b8cf6739dc667b2,
+    type: 3}
+  JSONSmallPlanetPrefab: {fileID: 4768134955780963224, guid: 407c323598e0a0545a2e60508cfac4cd,
+    type: 3}
+  JSONCometPrefab: {fileID: 9198081800506251167, guid: 198415b0c6ae1b94dabfb1be88dacde5,
+    type: 3}
+  JSONMoonPrefab: {fileID: 707921430323862103, guid: a1d0d9550cb5d4a4e8d5d90f6d717675,
+    type: 3}
+  JSONNeutStarPrefab: {fileID: 2793375658401816497, guid: bf781108db3bff444862f5f33e52bb9c,
+    type: 3}
+  JSONRedGiantPrefab: {fileID: 892542759180449373, guid: dfe9035ef56b44f4a9bc83122ee0e69e,
+    type: 3}
+  JSONBrokenSatPrefab: {fileID: 6427564713274334862, guid: ae9f92865c11cc34498f953bfc69f24b,
+    type: 3}
+  JSONToLoad: D2
+--- !u!1 &1375139103137066563
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1375139103137066560}
+  m_Layer: 0
+  m_Name: Start
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1375139103137066560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375139103137066563}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -14.89, y: 0, z: -20.18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1375139102026973639}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

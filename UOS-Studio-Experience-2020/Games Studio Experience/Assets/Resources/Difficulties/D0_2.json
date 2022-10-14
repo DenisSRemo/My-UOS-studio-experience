@@ -1,0 +1,18 @@
+{
+  "Obstacles": [
+    {
+      "name": "Moon"
+    }
+  ],
+  "Planets": [
+    {
+      "name": "BigPlanet",
+      "numberof": 1
+    },
+    {
+      "name": "SmallPlanet",
+      "numberof": 1
+    }
+
+  ]
+}
